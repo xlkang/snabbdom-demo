@@ -1,0 +1,16 @@
+{
+  "name": "snabbdom-demo",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": "git@github.com:xlkang/snabbdom-demo.git",
+  "author": "xlkang",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "snabbdom": "^1.0.1"
+  }
+}
